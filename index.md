@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## My portfolio
 
-You can use the [editor on GitHub](https://github.com/AlmazbekovBektur/Student/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Almazbekov Bektur.I am junior year college student at AlaToo University.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My previous study places are:Gymnazium number 12,63 School and 69 School.
 
-### Markdown
+I have knowledge of intermediate-level English.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm currently living at Tunguch-1 microdistrict with my family consisting of 4 members:My mother,2 younger sisters and me.
 
-```markdown
-Syntax highlighted code block
+My full adress is:microdistrict Tunguch-1,25\1,apartment 72,6th floor,second entrance.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlmazbekovBektur/Student/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
